@@ -8,8 +8,8 @@ How to run the applicaton.
 Option 1:
 
 Create some folder say inventory-testing
-download theater-sitting-problem.jar from https://github.com/SanjeevMedishetty-org/inventory-management
-open inventory-testing in command promt and run using java -jar theater-testing.jar (update the input.txt if you wann test other scenarios)
+download inventory-management.jar from https://github.com/SanjeevMedishetty-org/inventory-management
+open inventory-testing in command promt and run using java -jar inventory-management.jar 
 Note: Sometimes jar corrupts when download from git then use option 2
 
 Option 2:
