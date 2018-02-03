@@ -1,5 +1,6 @@
 
 inventory-management
+
 This is a sample program which is used to arrange sitting based on tickets booking requests/theater layout
 
 How to run the applicaton.
